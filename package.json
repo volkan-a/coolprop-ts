@@ -1,6 +1,6 @@
 {
   "name": "coolprop-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CoolProp npm package",
   "main": "index.js",
   "files": [
